@@ -1,0 +1,10 @@
+[package]
+name = "ams-sketch"
+version = "0.1.0"
+authors = ["Vesa Vilhonen <vesa@vilhonen.com>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+murmurhash3 = "0.0.5"
+rand = "0.7.2"
